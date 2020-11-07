@@ -1,4 +1,4 @@
-package blackcl
+package simplecl
 
 /*
 #cgo CFLAGS: -I CL

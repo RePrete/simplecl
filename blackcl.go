@@ -1,6 +1,7 @@
-package blackcl
+package simplecl
 
 /*
+#define CL_TARGET_OPENCL_VERSION 220
 #cgo CFLAGS: -I CL
 #cgo !darwin LDFLAGS: -lOpenCL
 #cgo darwin LDFLAGS: -framework OpenCL

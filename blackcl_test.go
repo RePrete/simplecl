@@ -1,4 +1,4 @@
-package blackcl
+package simplecl
 
 import (
 	"fmt"
